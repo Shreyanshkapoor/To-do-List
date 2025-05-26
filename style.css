@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Text1 {
+    height: 60px;
+    background-color:rgb(57, 118, 97);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subheading{
+    margin: 30px;
+    height:100px ;
+    border-radius: 0.5rem;
+    background-color: rgb(78, 134, 115); ;
+}
+
+.MyList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+
+}
+
+.addbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titlebar{
+    margin-top:10px ;
+    height: 40px;
+    width: 85%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.addbtn{
+    margin-top:10px ;
+    height: 40px;
+    width: 75px;
+    background-color: azure;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/* Add new Feature*/
+
+.task-container {
+    margin: 20px 30px;
+}
+
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3f3f3;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 0.5rem;
+}
+
+.task-name {
+    flex :1;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.task-name.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 5px 10px;
+    cursor: pointer;
+}
