@@ -3,9 +3,13 @@
     padding: 0;
 }
 
+body{
+    background-color: #94B4C1;
+}
+
 .Text1 {
     height: 60px;
-    background-color:rgb(57, 118, 97);
+    background-color:#213448;
     color: aliceblue;
     display: flex;
     justify-content: center;
@@ -16,7 +20,7 @@
     margin: 30px;
     height:100px ;
     border-radius: 0.5rem;
-    background-color: rgb(78, 134, 115); ;
+    background-color: #547792;
 }
 
 .MyList{
@@ -44,7 +48,7 @@
     margin-top:10px ;
     height: 40px;
     width: 75px;
-    background-color: azure;
+    background-color:#94B4C1;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
     display: flex;
