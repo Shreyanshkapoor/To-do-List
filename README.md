@@ -1,4 +1,4 @@
-    # 📝 To-Do List App
+## 📝 To-Do List App
 
 A simple and responsive **To-Do List** web application that helps users manage their daily tasks efficiently. Users can add, delete, and mark tasks as completed.
 
