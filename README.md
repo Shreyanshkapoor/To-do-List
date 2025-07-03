@@ -18,10 +18,6 @@ A simple and responsive **To-Do List** web application that helps users manage t
 - **CSS**
 - **JavaScript**
 
-## 📸 Screenshots
-
-> *(Add screenshots here if you want using markdown image syntax)*
-
 ## 📂 Project Structure
 
 ```bash
